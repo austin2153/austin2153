@@ -1,5 +1,5 @@
 # Austin Campbell
 
-I build things in my homelab to stay sharp. Bare metal Kubernetes, VM automation, whatever I'm working on professionally tends to show up here in some form.
+I learn by building. The homelab runs Kubernetes on Talos, VM automation through AWX, and whatever else I'm working through at the time.
 
 [LinkedIn](https://www.linkedin.com/in/austin-campbell-1044b673)
